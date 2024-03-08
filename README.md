@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dharshinipg16](https://github.com/dharshinipg16)
 
-- 💬 We can discuss about **React.js, Node.js, Express, MySQL, Python, Java, C++, C, JavaScriptHTML, CSS, TailWind, BootStrap, Wireframing, UI/UX, Figma, Canva.**
+- 💬 We can discuss about **React.js, Node.js, Express, MySQL, Python, Java, C++, C, JavaScriptHTML, CSS, TailWind, BootStrap, Docker, Wireframing, UI/UX, Figma, Canva.**
 
 - 📫 How to reach me **pgdharshini16@gmail.com**
 
-- ⚡ I am passionate about **Singing and musical performances**
+- ⚡ My passion.. **Hpw about some singing? Maybe some violin too?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
