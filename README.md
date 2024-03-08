@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **A Delivery Platform**
 
-- 🌱 I’m currently learning **Docker, AWS and FSD Hosting**
-
 - 👯 I’m looking to collaborate on **Any valuble FSD application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dharshinipg16](https://github.com/dharshinipg16)
