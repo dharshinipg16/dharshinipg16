@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pgdharshini16@gmail.com**
 
-- ⚡ My passion.. **Hpw about some singing? Maybe some violin too?**
+- ⚡ My passion.. **How about some singing? Maybe some violin too?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
