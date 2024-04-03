@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A Delivery Platform**
+- 🔭 I’m currently working on **Competitive programming**
 
 - 👯 I’m looking to collaborate on **Any valuble FSD application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dharshinipg16](https://github.com/dharshinipg16)
 
-- 💬 We can discuss about **React.js, Node.js, Express, MySQL, Python, Java, C++, C, JavaScriptHTML, CSS, TailWind, BootStrap, Docker, Wireframing, UI/UX, Figma, Canva.**
+- 💬 We can discuss about **React.js, Node.js, Express, MySQL, Python, Java, C++, C, Kotlin, JavaScript, HTML, CSS, TailWind, BootStrap, Docker, Wireframing, UI/UX, Figma, Canva.**
 
 - 📫 How to reach me **pgdharshini16@gmail.com**
 
